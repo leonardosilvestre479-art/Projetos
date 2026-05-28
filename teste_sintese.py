@@ -1,3 +1,5 @@
+# Code em python 
+
 sentinela = 1
  
 while (sentinela == 1) :
